@@ -1,3 +1,3 @@
 # Training
 Full Stack Training
-Author: Akshit Choudhary
+<br>Author: Akshit Choudhary
